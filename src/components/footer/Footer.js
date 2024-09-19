@@ -58,7 +58,7 @@ function Footer() {
         <div className="footerHeading">
           <IoLocationOutline />
           <div className="footerDetail">
-            Orbitz Group Building No. 12, Street 123, Zone 123 ,Qatar
+            Orbitz, Al Khor, Qatar
           </div>
         </div>
 
